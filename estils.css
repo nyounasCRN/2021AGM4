@@ -1,4 +1,4 @@
-body {
+lbody {
   background-color: pink;
   font-family: verdana;
   font-weight: 20px;
@@ -7,6 +7,6 @@ body {
 div {
   height: 150px;
   width: 200px;
-  background-color: purple;
+  background-color: yellow;
 }
   
